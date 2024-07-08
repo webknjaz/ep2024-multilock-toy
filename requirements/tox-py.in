@@ -1,3 +1,5 @@
+-c tox-py-constraints.in  # limits known broken versions
+
 pytest  # test runner
 requests  # making HTTP requests against the web app
 requests-unixsocket  # HTTP over UNIX abstract or file sockets
