@@ -1,0 +1,5 @@
+[tool.pip-tools]
+allow-unsafe = true
+generate-hashes = false
+resolver = "backtracking"
+strip-extras = true
