@@ -1,2 +1,3 @@
 Furo >= 2024
 Sphinx >= 7  # direct dependency, docs builder
+requests >= 2.32  # used to access endoflife.date
