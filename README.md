@@ -2,6 +2,11 @@
 
 https://ep2024.europython.eu/session/what-do-lockfiles-pin-actually-let-s-dig-in-and-get-our-hands-dirty
 
+## Archival note
+
+This repository captures what I'd shown during the tutorial. Please, go to
+https://github.com/webknjaz/ep2024-multilock-toy-template for the complete implementation.
+
 ## License
 
 BSD 3-Clause
